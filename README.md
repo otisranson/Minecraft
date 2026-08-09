@@ -4,11 +4,11 @@ A collection of my Minecraft build designs, ideas, and plans.
 
 ## Structure
 
-- `designs/` — individual build write-ups (one markdown file per design)
+- `designs/` — individual build write-ups, grouped into subfolders by version/edition (e.g. `designs/java1.21/`), one markdown file per design
 
 ## Design template
 
-Each file in `designs/` follows roughly this format:
+Each file in `designs/<version>/` follows roughly this format:
 
 ```markdown
 # Build Name
